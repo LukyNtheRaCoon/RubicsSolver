@@ -1,9 +1,0 @@
-W (9676) WiFiDriver: waiting httpdCanStart STA... status=4 dt_ms=3149
-W (320613) WiFi_MOTOR: block handlers=1
-W (329762) WiFi_MOTOR: block handlers=0
-W (367099) WiFi_MOTOR: block handlers=1
-W (370060) WiFi_MOTOR: block handlers=0
-W (384341) WiFi_MOTOR: block handlers=1
-W (387315) WiFi_MOTOR: block handlers=0
-W (508805) WiFi_MOTOR: block handlers=1
-W (512240) WiFi_MOTOR: block handlers=0

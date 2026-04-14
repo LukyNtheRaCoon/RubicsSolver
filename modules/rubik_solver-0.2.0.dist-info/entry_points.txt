@@ -1,2 +1,0 @@
-[console_scripts]
-rubik_solver = rubik_solver.utils:main
