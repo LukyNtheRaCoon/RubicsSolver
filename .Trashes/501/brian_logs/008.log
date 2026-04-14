@@ -1,0 +1,11 @@
+W (127113) WiFiDriver: STA lost ip
+W (129345) WiFiDriver: waiting httpdCanStart STA... status=4 dt_ms=3149
+W (132545) WiFiDriver: waiting httpdCanStart STA... status=4 dt_ms=6349
+W (216518) httpd_txrx: httpd_sock_err: error in recv : 104
+W (226982) httpd_txrx: httpd_sock_err: error in recv : 104
+W (369654) WiFi_MOTOR: block handlers=1
+W (449108) WiFi_MOTOR: block handlers=0
+W (781620) WiFi_MOTOR: block handlers=1
+W (790252) WiFi_MOTOR: block handlers=0
+W (803875) WiFi_MOTOR: block handlers=1
+W (811840) WiFi_MOTOR: block handlers=0

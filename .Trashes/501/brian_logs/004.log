@@ -1,0 +1,25 @@
+W (61096) WiFi_MOTOR: block handlers=1
+W (71503) WiFi_MOTOR: block handlers=0
+W (79229) WiFi_MOTOR: block handlers=1
+W (79312) WiFi_MOTOR: block handlers=0
+W (92636) WiFi_MOTOR: block handlers=1
+W (105428) WiFi_MOTOR: block handlers=0
+W (115886) WiFi_MOTOR: block handlers=1
+W (126494) WiFi_MOTOR: block handlers=0
+W (126523) httpd_txrx: httpd_sock_err: error in recv : 104
+W (126524) httpd_txrx: httpd_sock_err: error in recv : 104
+W (166502) httpd_txrx: httpd_sock_err: error in send : 11
+E (166502) WiFiAPI: File sending failed!
+W (171502) httpd_txrx: httpd_sock_err: error in send : 11
+W (171502) httpd_txrx: httpd_resp_send_err: 500 Internal Server Error - Failed to send file
+W (177502) httpd_txrx: httpd_sock_err: error in send : 11
+W (177502) httpd_uri: httpd_uri: uri handler execution failed
+W (182519) httpd_txrx: httpd_sock_err: error in recv : 11
+W (187523) httpd_txrx: httpd_sock_err: error in recv : 11
+W (192526) httpd_txrx: httpd_sock_err: error in recv : 11
+W (197530) httpd_txrx: httpd_sock_err: error in recv : 11
+W (202533) httpd_txrx: httpd_sock_err: error in recv : 11
+W (203009) WiFi_MOTOR: block handlers=1
+W (206535) WiFi_MOTOR: block handlers=0
+W (211897) WiFi_MOTOR: block handlers=1
+W (222746) WiFi_MOTOR: block handlers=0

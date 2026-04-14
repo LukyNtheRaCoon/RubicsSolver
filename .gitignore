@@ -1,0 +1,9 @@
+modules/
+*.pyc
+__pycache__/
+*.log
+.DS_Store
+.fseventsd/
+.Spotlight-V100/
+.Trashes/
+.vscode/

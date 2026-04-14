@@ -1,0 +1,6 @@
+W (9628) WiFiDriver: waiting httpdCanStart STA... status=3 dt_ms=3150
+W (14100) WiFi_MOTOR: block handlers=1
+W (14219) WiFi_MOTOR: block handlers=0
+W (16718) RunProgramV: Cannot interrupt, no program is running
+W (20799) WiFi_MOTOR: block handlers=1
+W (135189) WiFi_MOTOR: block handlers=0
