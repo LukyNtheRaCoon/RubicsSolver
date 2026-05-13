@@ -1,5 +1,6 @@
 import robot_control
 import robot_solver
+import cube_scanner
 
 if __name__ == "__main__":
     print("Inicializace robota...")
@@ -7,6 +8,9 @@ if __name__ == "__main__":
     
     # Inicializace našeho nového překladače a exekutora
     solver = robot_solver.RobotSolver(robot)
+    scanner = cube_scanner.CubeScanner(robot)
+    cube = scanner.scan_cube()
+    
     
     # 1. ZDE VLOŽ MANUÁLNÍ STRING PRO TESTOVÁNÍ
     # Např. kostka zamíchaná tahem R U R' U'
